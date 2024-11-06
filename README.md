@@ -44,7 +44,7 @@ _____________________________________________
 </details>
 
 <details>
-  <summary>La Vie en Rose(CLICK ME!)</summary>
+  <summary>La Vie en Rose (CLICK ME!)</summary>
   
 ![LVER](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNhcHNmb2hseHYyaGl1YXI4cWRxcXFnOHpxM2xsZGw5a2p0d2JzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXYEqocyzqsMsam5O7/giphy.gif)
 
@@ -53,7 +53,7 @@ _____________________________________________
 <details>
 Note: Full song preview!
 
-  <summary>Brahm's Lullaby(CLICK ME!)</summary>
+  <summary>Brahm's Lullaby (CLICK ME!)</summary>
 
   ![BSL](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZzgydW1tZjVua2Fsb3hkMWZsbjFkbnBnODRuN2d4aG1rejQ3ZmZubSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5TaZm1CO3wKxY8Kxn2/giphy.gif)
 
@@ -75,10 +75,10 @@ _____________________________________________
 > A: Any ping! If you have low ping but are simply struggling with the harp, you can use this mod as well!
 
 - Q: Is this safe to use?
-> A: Yes! No need to worry about a ban or anything.
+> A: Yes! This simply clicks in a manner you reguarly would, meaning it looks the exact same as human input for the Network.
 
 - Q: It keeps failing, what do I do?
-> A: Disconnect for about 5 minutes; this will give time for your Skyblock island to refresh, which increases performance—something crucial for the harp. If you are using it in the park, you may simply switch to another lobby. If you are using it in the park, you may simply switch to another lobby. With the new Tickless mode, the only factor for failing would be the server! You should always be able to do any song regardless of your ping or location.
+> A: Disconnect for about 5 minutes; this will give time for your Skyblock island to refresh, which increases performance—something crucial for the harp. If you are using it in the park, you may simply switch to another lobby. With the new Tickless mode, the only factor for failing would be the server! You should always be able to do any song regardless of your ping or location.
 
 - Q: Do I need the harp on my island?
 > A: Nope, but it performs better.
