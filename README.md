@@ -36,7 +36,7 @@ _____________________________________________
 
 <details>
   <summary>Through the Campfire (CLICK ME!)</summary>
-
+*Note it may seem like the notes are going past and in turn failing, but in the videos you can see and hear the audio queues which show they get clicked perfectly.
   ![TTC](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ3hhbXkzMW11bWttajQ0NmN5MTgzOHBqY3g3cXlnazlyNGFsa2h3MyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/f9weJwuDV76g9u3Hid/giphy.gif)
 
 </details>
@@ -44,6 +44,7 @@ _____________________________________________
 </details>
 
 <details>
+*Note it may seem like the notes are going past and in turn failing, but in the videos you can see and hear the audio queues which show they get clicked perfectly.
   <summary>La Vie en Rose (CLICK ME!)</summary>
   
 ![LVER](https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExdjNhcHNmb2hseHYyaGl1YXI4cWRxcXFnOHpxM2xsZGw5a2p0d2JzeSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/WXYEqocyzqsMsam5O7/giphy.gif)
@@ -51,7 +52,8 @@ _____________________________________________
 </details>
 
 <details>
-Note: Full song preview!
+*Note it may seem like the notes are going past and in turn failing, but in the videos you can see and hear the audio queues which show they get clicked perfectly.
+*Note: Full song preview!
 
   <summary>Brahm's Lullaby (CLICK ME!)</summary>
 
