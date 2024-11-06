@@ -78,7 +78,7 @@ _____________________________________________
 > A: Yes! No need to worry about a ban or anything.
 
 - Q: It keeps failing, what do I do?
-> A: Disconnect for about 5 minutes; this will give time for your Skyblock island to refresh, which increases performance—something crucial for the harp. If you are using it in the park, you may simply switch to another lobby. With the new Server Performance tester, you can also see the performance of your server and if it is suitable for Melody Mod.
+> A: Disconnect for about 5 minutes; this will give time for your Skyblock island to refresh, which increases performance—something crucial for the harp. If you are using it in the park, you may simply switch to another lobby. If you are using it in the park, you may simply switch to another lobby. With the new Tickless mode, the only factor for failing would be the server! You should always be able to do any song regardless of your ping or location.
 
 - Q: Do I need the harp on my island?
 > A: Nope, but it performs better.
