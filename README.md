@@ -1,6 +1,6 @@
-**Welcome to the GitHub page for the brand new Melody Mod Version 5! Here I will log all recent changes, updates and new features.**
+**Welcome to the GitHub page for the brand new Melody Mod! Here I will log all recent changes, updates and new features.**
 ______________________________________________
-**What's new in V5?**
+**What's new in the latest release?**
 ______________________________________________
 - Tickless/Pingless clicks. 
 > This brand new innovation eliminates all the previous fails caused by ping related issues, meaning any player with any ping should be able to finish the harp in its entirety!
