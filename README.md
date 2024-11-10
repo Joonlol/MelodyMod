@@ -16,7 +16,7 @@ _____________________________________________
 **Installation guide, for Forge version 1.8.9:**
 > Note the video includes a full installation guide!
 - #1, Download the mod from this github repository. To download the Mod simply click the Melody Mod V5 [1.8.9].jar file above once and then the download icon, which says download raw.
-> [CLICK TO DOWNLOAD MELODY MOD V5 [1.8.9]](https://github.com/Joonlol/MelodyMod/raw/refs/heads/main/Melody%20Mod%20V5%20%5B1.8.9%5D.jar)
+> [CLICK TO DOWNLOAD MELODY MOD [1.8.9]](https://github.com/Joonlol/MelodyMod/raw/refs/heads/main/Melody%20Mod%20%5B1.8.9%5D.jar)
 - #2, Locate the mod, the mod should be downloaded into your Downloads folder as a .jar file.
 - #3, Open your .minecraft folder, on Windows simply press the Windows Key + R to open Run, from there type %appdata% and then press enter, when in this folder go to the .minecraft folder and then Mods.
 - #4, Once in this Mods folder, drag the jar file from your Downloads folder into this folder, then close this folder and simply Start Minecraft.
