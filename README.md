@@ -93,4 +93,4 @@ _____________________________________________
 > A: Every song! Including the difficult ones such as Through the Campfire, Pachelbel, etc. Using Auto Mode will automatically select the song for you!
 
 _____________________________________________
-[November 2024] Some bug fixes, cleanup.
+[November 2024] Changed CDN network, should fix dependency bug.
